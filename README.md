@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
+
 <h1 align="center">🌍 Hello World! :) ⭐️</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
@@ -80,3 +82,5 @@
 </picture>
 
 _generated with [eduarda-manentii/snk](https://github.com/eduarda-manentii/snk)_
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
