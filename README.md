@@ -18,6 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eduarda-manentii&show_icons=true&theme=dracula&line_height=27" alt="GitHub stats"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eduarda-manentii&locale=pt-br&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 <h2 align="center">Front-end 🏄‍♂️</h2>
 
 <div align="center">
