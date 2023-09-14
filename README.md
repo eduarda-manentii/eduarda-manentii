@@ -6,13 +6,11 @@
 </div>
 
 <h2 align="center">About Me 👩‍💻</h2>
-
 <p align="center">
   Hi there! I'm Eduarda, a programmer who loves turning caffeine into code. I'm a front-end explorer and a back-end enthusiast. I enjoy building user-friendly and visually appealing interfaces. When I'm not coding, you'll find me crying and trying to understand why my code isn't working. Connect with me on social media and let's chat! I'm a native Brazilian, but if you want to talk in English, we can do that too.
 </p>
 
 <h2 align="center">GitHub Stats 📊</h2>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduarda-manentii&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-manentii&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
@@ -20,7 +18,6 @@
 </div>
 
 <h2 align="center">Front-end 🏄‍♂️</h2>
-
 <div align="center">
 <br>
   
@@ -36,7 +33,6 @@
 </div>
 
 <h2 align="center">Back-end 🧰</h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
   <!-- Add other badges here -->
@@ -50,7 +46,6 @@
 </div>
 
 <h2 align="center">Software/Tools 💻</h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">&nbsp;
   <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white" alt="NetBeans">
