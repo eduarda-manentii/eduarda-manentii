@@ -70,6 +70,11 @@
   <img src="https://www.photofunky.net/output/image/b/b/8/7/bb87a9/photofunky.gif" width="400">
 </div>
 
+<div align="center">
+  <a href="https://www.webcontadores.com" title="contador de visitas online"><img src="https://counter6.optistats.ovh/private/webcontadores.php?c=wn6qj8gssxb88yyf61twfsaxf74b6lfg" border="00" title="contador de visitas online" alt="contador de visitas online"></a>
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduarda-manentii/eduarda-manentii/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduarda-manentii/eduarda-manentii/output/github-contribution-grid-snake.svg">
